@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ReconocimientoFacial", "ReconocimientoFacial.pyproj", "{1E877D3C-3FC7-41D9-B928-6040C92C70E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E877D3C-3FC7-41D9-B928-6040C92C70E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E877D3C-3FC7-41D9-B928-6040C92C70E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EB9472A-9F87-4AA3-8803-F76DF647F80D}
+	EndGlobalSection
+EndGlobal
