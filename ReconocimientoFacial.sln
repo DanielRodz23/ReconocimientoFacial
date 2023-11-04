@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ReconocimientoFacial", "ReconocimientoFacial.pyproj", "{1E877D3C-3FC7-41D9-B928-6040C92C70E8}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AplicacionGestos", "..\AplicacionGestos\AplicacionGestos.pyproj", "{E93BF9A8-55AA-4633-AE59-A9A6E77BB301}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1E877D3C-3FC7-41D9-B928-6040C92C70E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1E877D3C-3FC7-41D9-B928-6040C92C70E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93BF9A8-55AA-4633-AE59-A9A6E77BB301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93BF9A8-55AA-4633-AE59-A9A6E77BB301}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
